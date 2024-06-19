@@ -1,0 +1,12 @@
+{
+  "name": "missao-aprendizado-iniciante-hello-world-com-expressjs",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado do nível Iniciante: Hello World com Express.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
